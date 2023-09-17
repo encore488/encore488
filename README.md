@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Christopher Williams. I am a CS student at Southern New Hampshire University.
-- 👀 I’m interested in Data Science, Robotics, and Effective Altruism.
-- 🌱 I’m currently learning Analytics.
-- 💞️ I’m looking to collaborate on a Data Science or robotics project. Newbies welcome! Must live within an hour of Raleigh or be willing to commute once every other week to Raleigh, NC.
+- 👋 Hi, I’m Christopher Williams. I am a CS student at Southern New Hampshire University. Graduating in summer or fall of 2024.
+- 👀 I’m interested in Data Science, Robotics, and anything to do with sustainability
+- Looking for an internship!
+- 🌱 I’m currently learning testing and DSA.
+- 💞️ I’m looking to collaborate on a project. Newbies welcome! Must live within an hour of Raleigh or be willing to commute once every other week to Raleigh, NC.
 - 📫 How to reach me:  DataSense68@Gmail.com or text me @ 919-651-3111
 
 <!---
