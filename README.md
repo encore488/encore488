@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Christopher Williams. I am a CS student at Southern New Hampshire University. Graduating in summer or fall of 2024.
+- 👋 Hi, I’m Christopher Williams. Recent CS grad from Southern New Hampshire University. Graduated with highest honors in August 2024.
 - 👀 I’m interested in Data Science, Robotics, and anything to do with sustainability.
-- Looking for an internship in analytics!
-- 🌱 I’m currently trying to advance my statistics knowledge outside of school.
-- 💞️ I’m looking for study buddies who like to collaborate on side-projects. Newbies welcome! Must live within an hour of Raleigh, NC.
+- Looking for a junior position in analytics!
+- 🌱 I’m currently a statistics tutor.
+- 💞️ I’m looking for study buddies who like to collaborate on side-projects. Newbies welcome! It's best if you live within an hour of Raleigh, NC.
 - 📫 How to reach me:  Christopher.williams.data@Gmail.com or text me @ 919-278-7307
 
 <!---
