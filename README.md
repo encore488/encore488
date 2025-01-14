@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Christopher Williams. Recent CS grad from Southern New Hampshire University. Graduated with highest honors in August 2024.
+- 👋 Hi, I’m Christopher Williams. Recent CS grad from Southern New Hampshire University. Graduated with highest honors in October 2024.
 - 👀 I’m interested in Data Science, Robotics, and anything to do with sustainability.
-- Looking for a junior position in analytics!
-- 🌱 I’m currently a statistics tutor.
-- 💞️ I’m looking for study buddies who like to collaborate on side-projects. Newbies welcome! It's best if you live within an hour of Raleigh, NC.
+- Looking for a position in data analytics!
+- 🌱 I’m currently a Data Science Intern at Aether Intelligence.
+- 💞️ I’m looking for people who want to collaborate and teach each other. Newbies welcome! It's best if you live within an hour of Cary, NC.
 - 📫 How to reach me:  Christopher.williams.data@Gmail.com or text me @ 919-278-7307
 
 <!---
